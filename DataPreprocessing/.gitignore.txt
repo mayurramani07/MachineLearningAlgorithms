@@ -1,0 +1,11 @@
+# Ignore datasets
+*.csv
+
+# Ignore jupyter auto files
+.ipynb_checkpoints/
+
+# Ignore windows files
+desktop.ini
+
+# Ignore random files
+*.txt
